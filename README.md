@@ -10,22 +10,6 @@ ketika kita ingin mengubah sebuah menu yang ingin kita jual kita tinggal menggan
 
 charp```
 
-private void generateContentPenawaran()
-        {
-            Item drink1 = new Item("Ice tea", 8000);
-            Item drink2 = new Item("Ice lemon tea", 5000);
-            Item drink3 = new Item("Ice lemon", 7000);
-            Item food4 = new Item("Kebab", 5000);
-            Item food5 = new Item("Gado-gado", 14000);
-            Item food6 = new Item("Sate", 15000);
+ass
 
-            controller.addItem(drink1);
-            controller.addItem(drink2);
-            controller.addItem(drink3);
-            controller.addItem(food4);
-            controller.addItem(food5);
-            controller.addItem(food6);
-
-            listPenawaran.Items.Refresh();
-        }
 ```
