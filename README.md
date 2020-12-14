@@ -8,7 +8,7 @@ Untuk mempermudah ketika ada yang ingin membeli makanan dan tidak perlu menghitu
 ## Tentang program
 ketika kita ingin mengubah sebuah menu yang ingin kita jual kita tinggal mengganti nama di bagian penawaran.xaml.cs
 
-charp```
+```
 
 ass
 
